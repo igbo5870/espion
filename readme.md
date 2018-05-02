@@ -8,28 +8,28 @@ L'agence RAE (Rodez Agence d'agent) souhaiterait gérer plus facilement ses ress
 **La base de données doit respecter les users stories.**
 
 ## Objectifs
-* **Créer le modèle de la base de données (format libre).**
-    Complexité : *Normal*
-    Durée estimée : *0,25 jour*
-    Compétence : *2*
+* **Créer le modèle de la base de données (format libre).**<br>
+    Complexité : *Normal*<br>
+    Durée estimée : *0,25 jour*<br>
+    Compétence : *2*<br>
 * **Concevoir la base de données en fonction du modèle (format libre).**
-    Complexité : *Normal*
-    Durée estimée : *0,25 jour*
-    Compétence : *3*
-* **Mettre en place l'application avec le framework Laravel.** Celle-ci devra être connecté à la base de donnée.
-    Complexité : *Normal*
-    Durée estimée : *0,5 jour*
-    Compétence : *5*
-* **Mettre en place un système de connexion et afficher la mission affectée (pour un agent) ou la liste des missions (pour un master).** Attention, la connexion doit être sécurisée !!!
-    Complexité : *Complexe*
-    Durée estimée : *1 jour*
-    Compétences : *4, 5 et 6*
-* **Modifier les missions.**
-    Complexité : *Complexe*
-    Durée estimée : *0,5 jour*
-    Compétences : *4, 5 et 6*
+    Complexité : *Normal*<br>
+    Durée estimée : *0,25 jour*<br>
+    Compétence : *3*<br>
+* **Mettre en place l'application avec le framework Laravel.** <br>Celle-ci devra être connecté à la base de donnée.<br>
+    Complexité : *Normal*<br>
+    Durée estimée : *0,5 jour*<br>
+    Compétence : *5*<br>
+* **Mettre en place un système de connexion et afficher la mission affectée (pour un agent) ou la liste des missions (pour un master).**<br> Attention, la connexion doit être sécurisée !!!<br>
+    Complexité : *Complexe*<br>
+    Durée estimée : *1 jour*<br>
+    Compétences : *4, 5 et 6*<br>
+* **Modifier les missions.**<br>
+    Complexité : *Complexe*<br>
+    Durée estimée : *0,5 jour*<br>
+    Compétences : *4, 5 et 6*<br>
 
-##Users stories
+## Users stories
 * **En tant que master, je peux** me connecter à l'application avec mon nom de code et mon mot de passe.
 * **En tant que master, je peux** ajouter une nouvelle mission. Elle doit au moins contenir un agent, une cible, une description, une localisation.
 * **En tant que master, je peux** créer un nouvel agent.
