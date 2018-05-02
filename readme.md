@@ -57,3 +57,8 @@ L'agence RAE (Rodez Agence d'agent) souhaiterait gérer plus facilement ses ress
 * Comp. 5 : Développer des composants d'accès aux données (niv 3)
 * Comp. 6 : Développer une page web en lien avec une base de donnée (niv 3)
 * Comp. 9 : Utiliser l'anglais dans son activité professionnelle en informatique (niv 2)
+
+## Outils utilisé lors de la réalisation de l'exercice 
+* MySQL Workbench pour la création du mododèle de boite. 
+* Le système de gestion de base de donnée MySQL 
+* L'interface graphique phpMyAdmin
