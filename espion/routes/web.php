@@ -19,3 +19,4 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/missions', 'MissionController@index')->name('missions');
+Route::get('/target', 'TargetController@index')->name('targets');
